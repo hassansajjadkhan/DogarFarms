@@ -74,7 +74,7 @@ const Index = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.5 }}
             >
-              Why Choose Mango Green Haven?
+              Why Choose Dogar Farms?
             </motion.h2>
             <motion.p 
               className="text-gray-600 max-w-2xl mx-auto"
